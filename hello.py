@@ -1,3 +1,5 @@
 
 
-print('Hello world')
+class CustomFraction:
+
+    def __str__(self): ...
